@@ -10,7 +10,6 @@ unter anderem​
 - [ ] Freefall Arena.
 
 
-## Shoutouts
 
 ### Umsetzung
 Programmierung Server: Ferrino
