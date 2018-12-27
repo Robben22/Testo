@@ -14,5 +14,4 @@ unter anderem​
 
 ### Umsetzung
 Programmierung Server: Ferrino
-
 geschrieben von: Anonymous
